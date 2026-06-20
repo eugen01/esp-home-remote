@@ -1,2 +1,3 @@
 # Exclude secrets file from updates
-secrets.h
+*secrets.h
+*.bak
